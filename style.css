@@ -1,0 +1,54 @@
+
+  body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: #353f51;
+    color: white;
+    text-align: center;
+  }
+  textarea {
+    width: 90%;
+    height: 200px;
+    padding: 10px;
+    margin-bottom: 20px;
+    font-size: 14px;
+    background-color: white;
+    color: black;
+  }
+  button {
+    padding: 15px 30px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: green;
+    color: white;
+    margin-bottom: 20px;
+  }
+  #output {
+    padding: 10px;
+    border: 1px solid #ccc;
+    background-color: white;
+    color: black;
+    margin-bottom: 20px;
+    font-size: 14px;
+    display: inline-block;
+    width: 90%;
+    vertical-align: top;
+    text-align: left;
+    overflow-x: auto;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+    background-color: white;
+    color: black;
+  }
+  th, td {
+    padding: 8px;
+    border-bottom: 1px solid #ddd;
+    text-align: left;
+  }
+  th {
+    background-color: #f2f2f2;
+  }
+
